@@ -1,14 +1,7 @@
 # JavaScript Quiz
-Creating a quiz using JavaScript to dynamically generate and interact with HTML elements
-
-## Quiz Requirements
-* Quiz starts and timer begins when a button is clicked
-* A question is shown and once it is answered another question appears
-* Time is subtracted from the clock for incorrect answers
-* Option to save initials and high score
-
+A short quiz with JS to test your knowledge!
 
 ## Completed Application
-https://tyrictjones.github.io/js-quiz/
+https://landank.github.io/js-quiz/
 
-![Application Preview](./assets/images/quiz-screenshot.png)
+![image](https://user-images.githubusercontent.com/109819736/186540329-1de13a85-1cdd-44bc-ae4f-24951ed84880.png)
